@@ -248,7 +248,6 @@ GROUP BY channel;
 
 This section summarizes actionable insights drawn from SQL analysis and how they translate into business decisions for a hyperlocal commerce platform like Blinkit.
 
----
 
 ### 🎯 Key Insights
 
