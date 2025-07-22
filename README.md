@@ -226,7 +226,7 @@ SELECT channel,
 FROM blinkit_marketing_performance
 GROUP BY channel;
 ```
-> 💾 *All SQL files for EDA are located in [`SQL/02_EDA_Basic.sql`](.SQL/02_EDA_Basic.sql) and [`SQL/03_EDA_advanced.sql`](.SQL/03_EDA_advanced.sql)*
+> 💾 All SQL files for EDA are located in [`SQL/02_EDA_Basic.sql`](.SQL/02_EDA_Basic.sql) and [`SQL/03_EDA_advanced.sql`](.SQL/03_EDA_advanced.sql)
 
 ---
 
@@ -239,7 +239,7 @@ GROUP BY channel;
 | `customer_churn_status_view` | Flags churned customers based on inactivity > 90 days                      |
 | `repeat_vs_feedback_view`  | Compares satisfaction levels between repeat vs new customers                |
 
-> 💾 *All SQL files for Analytical Views are located in [`SQL/04_views.sql`](.SQL/04_views.sql)*
+> 💾 All SQL files for Analytical Views are located in [`SQL/04_views.sql`](.SQL/04_views.sql)
 
 ---
 
