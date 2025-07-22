@@ -301,7 +301,7 @@ By replicating a real-world analytics environment, this project highlights how S
 
 If you found this project helpful leaving a ⭐ would be appreciating or have suggestions for improvements, feel free to reach out or contribute.
 
-Let’s connect: [LinkedIn](https://www.linkedin.com/in/sirsahilsingh) | [GitHub](https://github.com/sirsinghsahil) | [Email](sahil040305@gmail.com)
+Let’s connect: [LinkedIn](https://www.linkedin.com/in/sirsinghsahil/) | [GitHub](https://github.com/SirSahilSingh) | Email : sahil040305@gmail.com 
 ---
 
 > 📌 *This project is open-source and part of my learning journey as a Data Analyst. Contributions, feedback, and coffee are always welcome!*
