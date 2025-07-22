@@ -229,6 +229,8 @@ GROUP BY channel;
 ```
 > 💾 *All SQL files for EDA are located in [`SQL/02_EDA_Basic.sql`](.SQL/02_EDA_Basic.sql) and [`SQL/03_EDA_advanced.sql`](.SQL/03_EDA_advanced.sql)*
 
+---
+
 ### 🔍 Analytical Views Created
 
 | View Name                   | Description                                                                 |
@@ -239,6 +241,8 @@ GROUP BY channel;
 | `repeat_vs_feedback_view`  | Compares satisfaction levels between repeat vs new customers                |
 
 > 💾 *All SQL files for Analytical Views are located in [`SQL/04_views.sql`](.SQL/04_views.sql)*
+
+---
 
 ## 📈 Key Insights & Business Impact
 
@@ -278,6 +282,8 @@ This section summarizes actionable insights drawn from SQL analysis and how they
 
 > 🧩 *These insights would help Blinkit enhance profitability, improve customer experience, and scale operations intelligently.*
 
+---
+
 ## ✅ Conclusion
 
 This project showcased an end-to-end SQL-driven data analysis pipeline for Blinkit, a quick-commerce grocery platform. From raw CSV imports and schema design to deep customer behavior analysis, the project demonstrates:
@@ -290,6 +296,8 @@ This project showcased an end-to-end SQL-driven data analysis pipeline for Blink
 By replicating a real-world analytics environment, this project highlights how SQL can be used not just to answer questions — but to uncover patterns, drive strategic decisions, and optimize operations across marketing, delivery, inventory, and customer engagement.
 
 > 🚀 Whether you're a business analyst, data scientist, or product team — the insights here reflect how data can transform operations into intelligent, data-backed growth.
+
+---
 
 ## 📬 Feedback & Collaboration
 
