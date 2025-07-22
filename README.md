@@ -181,7 +181,6 @@ Raw data in CSV format often contains inconsistencies, nulls, and format issues.
 
 After cleaning and structuring the data, we performed in-depth SQL-based EDA to derive meaningful business insights. Below are the key analytical findings grouped by business function.
 
----
 
 ### 🛍️ Customer Analytics
 
